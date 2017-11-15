@@ -4,6 +4,7 @@ This is a list of known snowplowers who plow alleys in Saint Paul, MN. I hope th
 Disclaimer: I am not endorsing any specific snowplower on this list. Use this as a helpful starting place to make the decision of which snowplower is right for you.
 
 ## Snowplowers
+
 | Snowplower                       | Phone Number | Neighborhoods Served                 |
 | -------------------------------- | ------------ | ------------------------------------ |
 | Albrecht Company                 | 651-633-4510 | Saint Anthony Park                   |
