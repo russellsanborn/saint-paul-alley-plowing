@@ -1,6 +1,8 @@
 # Saint Paul Alley Plowing Guide
 This is a list of known snowplowers who plow alleys in Saint Paul, MN. I hope this is helpful to others. Not all snowplowers serve every neighborhood of Saint Paul. 
 
+Disclaimer: I am not endorsing any specific snowplower on this list. Use this as a helpful strating place to make the decision of which snowplower is right for you.
+
 ## Snowplowers
 | Snowplower                       | Phone Number | Neighborhoods Served                 |
 | -------------------------------- | ------------ | ------------------------------------ |
