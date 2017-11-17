@@ -5,9 +5,10 @@ Disclaimer: I am not endorsing any specific snowplower on this list. Use this as
 
 ## Snowplowers
 
-| Snowplower                       | Phone Number | Neighborhoods Served                 |
-| -------------------------------- | ------------ | ------------------------------------ |
-| Albrecht Company                 | 651-633-4510 | Saint Anthony Park                   |
-| Navillus Painting                | 651-343-6948 | ?                                    |
-| Schroeder Snow Plowing           | 651-690-1085 | Highland Park, Mac Groveland, Midway | 
-| Westy's Snow and Rubbish Removal | 651-528-4243 | All                                  |
+| Snowplower                       | Phone Number | Website                           | Neighborhoods Served                 |
+| -------------------------------- | ------------ | --------------------------------- | ------------------------------------ |
+| Albrecht Company                 | 651-633-4510 | http://albrechtcompany.com        | Saint Anthony Park                   |
+| Highland Sanitation              | 651-458-0043 | http://www.highlandsanitation.com | All                                  | 
+| Navillus Painting                | 651-343-6948 |                                   | ?                                    |
+| Schroeder Snow Plowing           | 651-690-1085 |                                   | Highland Park, Mac Groveland, Midway | 
+| Westy's Snow and Rubbish Removal | 651-528-4243 |                                   | All                                  |
